@@ -1,7 +1,7 @@
 package SlicePrinter_test
 
 import (
-	Print "SlicePrinter"
+	Print "github.com/Logan-Garrett/SlicePrinter"
 	"io"
 	"os"
 	"strings"
